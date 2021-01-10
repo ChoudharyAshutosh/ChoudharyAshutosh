@@ -3,7 +3,7 @@
 <!--
 **ChoudharyAshutosh/ChoudharyAshutosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+###Ashutosh  Choudhary
 
 - 🔭 I’m currently working on upgrading my skills about iot and web development.
 - 🌱 I’m currently learning Full Stack Development with upgrad.
