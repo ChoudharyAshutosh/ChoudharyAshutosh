@@ -1,6 +1,4 @@
-### Hi there 👋
-
-
+### Hi there, 👋
 ### Ashutosh  Choudhary
 
 - 🔭 I’m currently working on upgrading my skills about iot and web development.
